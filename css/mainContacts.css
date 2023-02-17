@@ -1,0 +1,43 @@
+.main{
+  margin: 0 auto;
+  max-width: 911px;
+  height: calc(100vh - 140px);
+  overflow: auto;
+  flex: 1;
+}
+
+.main-heading{
+  margin: 20px 0 20px 0;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.main-text{
+  margin-top: 20px;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 29px;
+}
+
+.photo{
+  max-width: 1200px;
+  width: 100%;
+  height: auto;
+}
+
+.map{
+  margin-top: 20px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.phone{
+  margin-top: 16px;
+  text-decoration: underline;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+}
