@@ -26,3 +26,7 @@
   text-align: center;
 }
 
+.students_card:hover:nth-child(3n) div {
+  background: aqua;
+}
+
